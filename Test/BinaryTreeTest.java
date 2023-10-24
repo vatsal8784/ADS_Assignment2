@@ -1,6 +1,6 @@
 package Test;
 
-import Main.BinaryTreeADT;
+import Model.BinaryTreeADT;
 import Util.Helper;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;

@@ -1,8 +1,7 @@
 package Util;
 
-import Main.BinaryTreeADT;
-import Main.BinaryTreeNode;
-import com.sun.source.tree.BinaryTree;
+import Model.BinaryTreeADT;
+import Model.BinaryTreeNode;
 
 import java.util.ArrayList;
 import java.util.Objects;
